@@ -22,7 +22,7 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 
 
-##TL;DR:  
+#### TL;DR:  
 - app's home page renders 10 results that also get stored into local storage 
 - very result has a "details" link that shows recipe information upon clicking on it.
 - when user searches (with keypress or button press) 10 results get rendered
