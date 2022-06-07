@@ -1,6 +1,6 @@
 # To run the project:
 
-1. Run "npm init"
+1. Run "npm init" in the projects command line
 2. run "npm start" or "npm test"
 
 Deployed version of the app: https://stalwart-dasik-844bea.netlify.app/
